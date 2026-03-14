@@ -112,7 +112,7 @@ resizer/
 
 ### License
 
-MIT
+[MIT](./LICENSE)
 
 ---
 
@@ -224,4 +224,4 @@ resizer/
 
 ### Лицензия
 
-MIT
+[MIT](./LICENSE)
